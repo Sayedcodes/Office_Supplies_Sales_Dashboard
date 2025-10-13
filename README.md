@@ -1,4 +1,5 @@
 # Office Supplies Sales Dashboard
+(Note: Please download and open this file in Microsoft Excel to view the complete dashboard formatting and features, as Google Sheets does not fully support Excel dashboards.)
 
 ## 📊 Project Description
 An interactive Excel dashboard analysing UK office supplies sales data. Includes:
