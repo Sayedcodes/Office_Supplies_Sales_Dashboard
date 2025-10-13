@@ -9,7 +9,7 @@ An interactive Excel dashboard analysing UK office supplies sales data. Includes
 
   ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/Sayedcodes/Office_Supplies_Sales_Dashboard/blob/main/images/dashboard_preview.png)
+📷[Dashboard Screenshot](dashboard-preview-excel.png)
 
 ## 🛠️ Tools Used
 - Microsoft Excel
