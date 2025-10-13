@@ -7,6 +7,10 @@ An interactive Excel dashboard analysing UK office supplies sales data. Includes
 - KPI calculations
 - Interactive charts for sales trends and customer insights
 
+  ## 📷 Dashboard Preview
+
+![Dashboard Screenshot](https://github.com/Sayedcodes/Office_Supplies_Sales_Dashboard/blob/main/images/dashboard_preview.png)
+
 ## 🛠️ Tools Used
 - Microsoft Excel
 
